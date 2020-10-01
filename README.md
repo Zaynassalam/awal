@@ -11,5 +11,5 @@ new
 
 <header>
     <h1>100 &lt;hr&gt;</h1>
-    <p>CodePen Challenge</p>
+    <p>CodePen Challnge</p>
 </header>
