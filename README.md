@@ -11,5 +11,5 @@ new
 
 <header>
     <h1>100 &lt;hr&gt;</h1>
-    <p>HacktoberFest Kaos Gratis Challenge</p>
+    <p>HacktoberFest Kaos Gratis lagi Challenge</p>
 </header>
